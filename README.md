@@ -1,7 +1,7 @@
 ---
 # 📒 CHALLENGE : Telcom X LATAM Parte II - Predicción de Cancelación.
 
-![Banner del proyecto]()
+![Banner del proyecto](https://raw.githubusercontent.com/EuniceGarcia503/Challenge3_TelecomX_LATAM_parte_II/refs/heads/main/Imagenes_TelecomX_Parte2/Banner%20de%20Challenge%20parte%202.png)
 ---
 ## 🚧 Estado del Challenge. 
 **En construcción.**  
