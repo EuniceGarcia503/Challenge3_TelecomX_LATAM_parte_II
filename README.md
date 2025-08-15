@@ -16,8 +16,8 @@ Este desafío fue diseñado para aplicar de manera práctica los conocimientos a
 - **Clasificación: validación de modelos y métricas de evaluación**
 - **IA aumentada: previsión de atrasos de vuelos**
 
-El objetivo es contruir un modelo que pueda predecir qué clientes tienen más probabilidad de cancelar sus servicios en un futuro cercano. 
-La empresa quiere anticiparse al problema de la cancelación, y  corresponde  construir un pipeline robusto para esta etapa inicial de modelado.
+El objetivo es construir un modelo que pueda predecir qué clientes tienen más probabilidad de cancelar sus servicios en un futuro cercano. 
+La empresa quiere anticiparse al problema de la cancelación, y  corresponde  entonces construir un pipeline robusto para esta etapa inicial de modelado.
 
 Actividades que se realizaron:
 
