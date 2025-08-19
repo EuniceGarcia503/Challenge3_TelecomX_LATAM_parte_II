@@ -37,33 +37,33 @@ Actividades que se realizaron:
 
 ## 🖥️ Preview del Notebook.
 
-🟢 El contenido del notebook está dividido en 4 secciones en total que pueden accederse desde un índice:
+🟢 El contenido del notebook está dividido en 6 secciones en total que pueden accederse desde un índice:
 
 ![Imagen_indice]()
 
-🟢 Extracción de Datos.
+🟢 Preparación de los Datos.
   
-![Imagen_extracción1]()
+![Imagen_preparación1]()
 
-🟢 Transformación de Datos.
+🟢 Análisis de Correlación y Selección de Variables.
 
-![Imagen_transformación1]()
+![Imagen_correlacion1]()
 
-🟢 Carga y Análisis. Contiende el Análisis Exploratorio de los Datos (EDA).
+🟢 Entrenamiento de Modelos.
 
-![Imagen EDA1]()
+![Imagen modelos]()
 
-![Imagen EDA2]()
+🟢 Evaluación de Rendimiento.
 
-![Imagen EDA3]()
+![Imagen evaluación]()
 
-🟢 Informe Final. Contiende el resumen de hallazgos, el patrón general y la recomendación de uso.
+🟢 Interpretación los Resultados.
 
-![Imagen informe1]()
+![Imagen interpretación]()
 
-![Imagen informe2]()
+🟢 Conclusión Estratégica.
 
-![Imagen informe3]()
+![Imagen conclusión]()
 
 
 ---
