@@ -39,7 +39,7 @@ Actividades que se realizaron:
 
 🟢 El contenido del notebook está dividido en 6 secciones en total que pueden accederse desde un índice:
 
-![Imagen_indice]()
+![Imagen_indice](https://raw.githubusercontent.com/EuniceGarcia503/Challenge3_TelecomX_LATAM_parte_II/refs/heads/main/Imagenes_TelecomX_Parte2/%C3%ADndice_notebook_telecom2.png)
 
 🟢 Preparación de los Datos.
   
