@@ -63,7 +63,7 @@ Actividades que se realizaron:
 
 🟢 Conclusión Estratégica.
 
-![Imagen conclusión]()
+![Imagen conclusión](https://raw.githubusercontent.com/EuniceGarcia503/Challenge3_TelecomX_LATAM_parte_II/refs/heads/main/Imagenes_TelecomX_Parte2/conclusi%C3%B3n_telecom2.png)
 
 
 ---
