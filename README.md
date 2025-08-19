@@ -55,7 +55,7 @@ Actividades que se realizaron:
 
 🟢 Evaluación de Rendimiento.
 
-![Imagen evaluación]()
+![Imagen evaluación](https://raw.githubusercontent.com/EuniceGarcia503/Challenge3_TelecomX_LATAM_parte_II/refs/heads/main/Imagenes_TelecomX_Parte2/evaluacion_modelo_telecom2.png)
 
 🟢 Interpretación los Resultados.
 
