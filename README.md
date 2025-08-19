@@ -43,7 +43,7 @@ Actividades que se realizaron:
 
 🟢 Preparación de los Datos.
   
-![Imagen_preparación1]()
+![Imagen_preparación1](https://raw.githubusercontent.com/EuniceGarcia503/Challenge3_TelecomX_LATAM_parte_II/refs/heads/main/Imagenes_TelecomX_Parte2/preparacion_telecom2.png)
 
 🟢 Análisis de Correlación y Selección de Variables.
 
