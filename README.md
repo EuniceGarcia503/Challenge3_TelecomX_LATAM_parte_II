@@ -47,7 +47,7 @@ Actividades que se realizaron:
 
 🟢 Análisis de Correlación y Selección de Variables.
 
-![Imagen_correlacion1]()
+![Imagen_correlacion1](https://raw.githubusercontent.com/EuniceGarcia503/Challenge3_TelecomX_LATAM_parte_II/refs/heads/main/Imagenes_TelecomX_Parte2/correlaci%C3%B3n_telecom2.png)
 
 🟢 Entrenamiento de Modelos.
 
