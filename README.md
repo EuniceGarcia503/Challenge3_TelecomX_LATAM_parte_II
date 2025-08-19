@@ -51,7 +51,7 @@ Actividades que se realizaron:
 
 🟢 Entrenamiento de Modelos.
 
-![Imagen modelos]()
+![Imagen modelos](https://raw.githubusercontent.com/EuniceGarcia503/Challenge3_TelecomX_LATAM_parte_II/refs/heads/main/Imagenes_TelecomX_Parte2/modelo_telecom2.png)
 
 🟢 Evaluación de Rendimiento.
 
