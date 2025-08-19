@@ -59,7 +59,7 @@ Actividades que se realizaron:
 
 🟢 Interpretación los Resultados.
 
-![Imagen interpretación]()
+![Imagen interpretación](https://raw.githubusercontent.com/EuniceGarcia503/Challenge3_TelecomX_LATAM_parte_II/refs/heads/main/interpretaci%C3%B3n_modelo_telecom2.png)
 
 🟢 Conclusión Estratégica.
 
